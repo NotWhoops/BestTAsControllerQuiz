@@ -7,9 +7,7 @@ namespace BestTAsControllerQuiz.Models
 {
     public class SayHelloTwo
     {
-        public class SayHello
-        {
+            public int Id { get; set; }
             public string? SayHello1 { get; set; }
-        }
     }
 }

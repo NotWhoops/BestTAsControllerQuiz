@@ -8,7 +8,8 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<ISayHelloServices>();
+builder.Services.AddScoped<ISayHelloServices, SayHelloServices>();
+
 
 var app = builder.Build();
 

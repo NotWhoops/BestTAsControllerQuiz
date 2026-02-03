@@ -66,3 +66,5 @@ C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 5\BestTAsControl
 C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 5\BestTAsControllerQuiz\obj\Debug\net9.0\Todov4.pdb
 C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 5\BestTAsControllerQuiz\obj\Debug\net9.0\Todov4.genruntimeconfig.cache
 C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 5\BestTAsControllerQuiz\obj\Debug\net9.0\ref\Todov4.dll
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 5\BestTAsControllerQuiz\obj\Debug\net9.0\Todov4.sourcelink.json
+C:\Users\bmdva\OneDrive\Documents\Combine Season 8\Level 2\Week 5\BestTAsControllerQuiz\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
