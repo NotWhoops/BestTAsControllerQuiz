@@ -1,0 +1,6 @@
+@Todov4_HostAddress = http://localhost:5148
+
+GET {{Todov4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
